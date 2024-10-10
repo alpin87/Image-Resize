@@ -1,7 +1,7 @@
 <h3>스프링부트 thumbnail 라이브러리와 AWS S3저장소를 이용해 이미지 리사이징 프로젝트 </h3>
+<hr>
 
-
-
+# 프로젝트 구상도
 ![image](https://github.com/user-attachments/assets/f59969dc-2099-4d2e-ad92-41bba071acb9)
 
 
