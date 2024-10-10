@@ -35,8 +35,7 @@ src/
    │               └── exception/ 
    │                   ├── CustomException.java 
    │                   └── GlobalExceptionHandler.java 
-   └── resources/ 
-       └── application.yml
+
 ```
 <hr>
 <h2>결과</h2>
